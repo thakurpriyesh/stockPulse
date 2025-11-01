@@ -18,7 +18,7 @@ def serve_frontend():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Stock Trend Tracker (Python Backend)</title>
+        <title>StockPulse</title>
         <!-- Load Tailwind CSS -->
         <script src="https://cdn.tailwindcss.com"></script>
         <!-- Load Chart.js -->
